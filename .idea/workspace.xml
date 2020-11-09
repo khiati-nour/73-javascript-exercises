@@ -20,46 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00deaca0-239b-414e-a8e2-eb86c4615ed0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/73-javascript-exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/01-var-alert/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/01-var-alert/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/02-var-prompt/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/03-prompt-if/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/03-prompt-if/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/04-asv-confirm/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-base/04-asv-confirm/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/01-calculator-one/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/01-calculator-one/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/02-calculator-two/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/02-calculator-two/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/03-even-square/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/03-even-square/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/04-sort-numbers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/05-factorial/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/05-factorial/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/06-fizzbuzz/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-maths/06-fizzbuzz/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/api.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/becode-seal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/bell.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/compass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/kiss-wink-heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/kiss.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/lemon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/img/map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/lib/callbacks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/lib/promises.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/lib/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_shared/raw-generator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -97,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604913501470</updated>
       <workItem from="1604913502650" duration="168000" />
-      <workItem from="1604913733522" duration="367000" />
+      <workItem from="1604913733522" duration="1151000" />
     </task>
     <servers />
   </component>
