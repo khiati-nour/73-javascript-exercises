@@ -15,6 +15,8 @@
 
     document.getElementById("run").addEventListener("click", function() {
         const table = [2, 4, 14, 10, 90, 23, 16];
+       /* var table = document.getElementById("numbers").value ;*/
+
 
 
 

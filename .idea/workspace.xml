@@ -21,15 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00deaca0-239b-414e-a8e2-eb86c4615ed0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-base/03-prompt-if/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/03-prompt-if/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-base/04-asv-confirm/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/04-asv-confirm/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/01-calculator-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/01-calculator-one/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/02-calculator-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/02-calculator-two/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/03-even-square/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/03-even-square/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/04-sort-numbers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/04-sort-numbers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/05-factorial/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/05-factorial/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/06-fizzbuzz/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/06-fizzbuzz/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604913501470</updated>
       <workItem from="1604913502650" duration="168000" />
-      <workItem from="1604913733522" duration="31390000" />
+      <workItem from="1604913733522" duration="36195000" />
     </task>
     <servers />
   </component>
@@ -88,6 +80,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605014987920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605014987920" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604913593068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
