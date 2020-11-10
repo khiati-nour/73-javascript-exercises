@@ -12,8 +12,17 @@
 (function() {
 
     document.getElementById("run").addEventListener("click", function() {
+        var n=21;
+        var msg="";
+        var res= "0";
 
-        // your code here
+        for(var x= 1; x<=n;x++)
+        {
+            res = x * x;
+            msg = msg + " " + x + " * "+ x + " = " + res + "\n";
+        }
+
+        alert(msg);
 
     });
 

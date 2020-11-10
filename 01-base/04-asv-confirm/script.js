@@ -9,7 +9,20 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function() {
+(function person() {
+    var getAge = prompt("What is your age? ");
+    var getGender= prompt("What is your Gender? ");
+    var getTown = prompt("where are you from? ");
+
+
+
+    var r = confirm(+ getAge + " " + getGender + " " + getTown);
+    if (r == false) {
+        person();
+
+    }
+
+
 
     // your code here
 

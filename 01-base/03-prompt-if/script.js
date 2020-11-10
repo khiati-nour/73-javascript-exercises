@@ -11,7 +11,7 @@
 
 (function() {
 
-    let getQst = prompt("Do You Want Some Cake ");
+    var getQst = prompt("Do You Want Some Cake ");
     if (getQst =="yes") {
         alert("Congratulation");
     }
