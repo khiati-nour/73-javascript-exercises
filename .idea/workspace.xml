@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00deaca0-239b-414e-a8e2-eb86c4615ed0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-colors/01-change-bcg-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-colors/01-change-bcg-one/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rock-paper-scissors" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,7 +60,9 @@
       <option name="presentableId" value="Default" />
       <updated>1604913501470</updated>
       <workItem from="1604913502650" duration="168000" />
-      <workItem from="1604913733522" duration="36195000" />
+      <workItem from="1604913733522" duration="82499000" />
+      <workItem from="1605452119346" duration="19614000" />
+      <workItem from="1605615775414" duration="4751000" />
     </task>
     <servers />
   </component>
@@ -80,13 +82,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605014987920">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605634312226">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605014987920" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605634312226" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604913593068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604913593068" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1605197710128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605197710128" />
+    <state x="9" y="49" key="search.everywhere.popup" timestamp="1605191383052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="9" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605191383052" />
   </component>
 </project>
