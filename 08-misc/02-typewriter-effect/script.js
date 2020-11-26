@@ -14,8 +14,8 @@
     var txt  = "each letter appear one after the other";
 
     var i = 0;
-    var speed = 50;
-
+    var speed = Math.floor(Math.random() * (200 - 50 + 1) + 50)
+    document.getElementById("target").innerText = ""
     function typeWriter() {
         if (i < txt.length) {
             document.getElementById("target").innerHTML += txt.charAt(i);
