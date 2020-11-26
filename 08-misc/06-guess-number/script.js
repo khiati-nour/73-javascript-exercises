@@ -10,7 +10,24 @@
 // You will have time to focus on it later.
 
 (function() {
+var Nmbr = Math.floor(Math.random() * (4 - 1) + 1)
+    console.log(Nmbr)
 
-    // your code here
+
+    var y =0 ;
+while (Nmbr != guess) {
+    var guess = prompt("guess the secret number")
+    if (Nmbr < guess) {
+        alert("too higher")
+        y++
+    } else if (Nmbr == guess) {
+
+        alert("that's it!" + "" + "you needed" +" "+ y + "guesses")
+    } else if  (Nmbr > guess) {
+        alert("too low")
+        y++
+    }
+    console.log(y)
+}
 
 })();
