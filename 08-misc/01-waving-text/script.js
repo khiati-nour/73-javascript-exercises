@@ -10,6 +10,16 @@
 // You will have time to focus on it later.
 
 (function() {
-document.getElementById('target').style.animation = "monospace"
+var txtId = document.getElementById('target')
+var  txt =  txtId.innerText
+var txtSplit = txt.split("")
+ txtId.innerText = "";
+    console.log(txtSplit)
+    console.log(txt)
 
+    for(var i = 0 ; i<txtSplit.length ; i++){
+        var Value = i%8;
+        var waveTxt = txtSplit[i].fontsize(Value)
+      document.getElementById('target').innerHTML += waveTxt;
+    }
 })();
