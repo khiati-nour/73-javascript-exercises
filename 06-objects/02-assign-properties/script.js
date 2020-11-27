@@ -28,8 +28,19 @@
     };
 
     document.getElementById("run").addEventListener("click", function () {
-        var settings = .extend({}, computers, defaultProps);
-        console.log(settings);
+        console.log(computers.length);
+        console.log(computers);
+
+        for (i = 0; i < computers.length; i++) {
+
+
+            computers[i] = {
+                ...defaultProps,
+                ...computers[i],
+            }
+        }
+        console.log(computers);
+
 
     })
     })();

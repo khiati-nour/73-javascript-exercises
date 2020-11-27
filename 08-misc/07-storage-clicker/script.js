@@ -11,6 +11,19 @@
 
 (function() {
 
-    // your code here
+    var i=0 ;
+    document.getElementById("increment").addEventListener("click", function () {
+    i++
+    document.getElementById('target').innerHTML = i;
+    localStorage.setItem("counter", i);
+    })
+
+
+    if (location.reload) {
+        if (localStorage.getItem("counter") != "undefined"){
+            i = localStorage.getItem("counter");
+            document.getElementById('target').innerHTML = i;
+        }
+    }
 
 })();
